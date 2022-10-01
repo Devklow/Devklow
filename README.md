@@ -1,5 +1,5 @@
 - 👋 Hey, je suis @Devklow
-- 👀 J'aime l'informatique, la programmation et les jeux de rôles
+- 👀 Je suis passioné d'Informatique, Jeux de rôles et Jeux de sociétés en général
 - 🎓 Actuellement en BTS SIO
 - 🏡 J'aimerais travailler plus tard dans le domaine du developpement
 - 📫 Vous pouvez m'envoyer un mail à joshua@labbe.dev
